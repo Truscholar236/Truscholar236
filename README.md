@@ -6,7 +6,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-Truscholar236/Truscholar236 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<!---Digital credentials provide a streamlined, secure, and credible method for representing academic and professional achievements. They offer efficiency, easy verification, and environmentally friendly alternatives to traditional paper certificates, empowering individuals and institutions with modern, accessible qualifications. https://www.truscholar.io
 --->
